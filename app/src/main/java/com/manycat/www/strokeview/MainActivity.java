@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_main );
         txt = (TextView) findViewById( R.id.txt );
-        txt.setText("測試測試");
+        txt.setText("Test國字測試");
     }
 }

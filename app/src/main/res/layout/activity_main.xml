@@ -18,6 +18,5 @@
         android:layout_height="wrap_content"
         android:textColor="#ffffff"
         android:textSize="20sp"
-        android:text="國國國"
         />
 </LinearLayout>
